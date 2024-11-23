@@ -6,9 +6,14 @@
 
 }
 body{
-    background: linear-gradient(135deg, rgb(54, 35, 164)100%, white 0%);
+    background: linear-gradient(135deg, rgb(7, 2, 40)100%, white 0%);
     min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 20px
+}
+
+h1{ background: linear-gradient(135deg, white 100%);
+
 }
